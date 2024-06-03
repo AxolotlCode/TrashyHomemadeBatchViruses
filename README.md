@@ -1,3 +1,3 @@
-ATTENTION!!! THE LAG VIRUS IS MARKED AS MALWARE BY VIRUSTOTAL I DO NOT KNOW IF IT IS A FALSE POSITIVE OR MALWARE HAS TOOKEN OVER THE FILE.
+The lag virus has been tooken down due to many trojan detections.
 
 All of these SUCK and all of these are not actually viruses 🖥️
